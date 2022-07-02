@@ -1,11 +1,5 @@
 Plugin Builder Results
 
-Your plugin SaveAttributes was created in:
-    C:/Users/User/Project/qgis-plugin/attribute-csv\save_attributes
-
-Your QGIS plugin directory is located at:
-    C:/Users/User/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
-
 What's Next:
 
   * Copy the entire directory containing your new plugin to the QGIS plugin
